@@ -1,0 +1,17 @@
+# Manipulação e Estatística
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Visualização de Dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+folium>=0.14.0
+streamlit-folium>=0.13.0
+
+# Dashboard & IDE
+streamlit>=1.25.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
